@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my Git! My name is Nastya Liubimova. Currently I'm studying Applied Mathematics and Computer Science at Belarusion State Univercity. 
+Welcome to my Git! My name is Nastya Liubimova. Currently I'm studying Applied Mathematics and Computer Science at Belarussion State Univercity. 
 ## My skills:
 <pre>
 ✦ Methodologies:
